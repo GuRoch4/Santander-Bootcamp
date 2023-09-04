@@ -15,3 +15,13 @@ Contexto: Você é um cientista de dados no Santander e recebeu a tarefa de envo
 3- Depois de obter os dados dos clientes, você vai usar a API do ChatGPT (OpenAI) para gerar uma mensagem de marketing personalizada para cada cliente. Essa mensagem deve enfatizar a importância dos investimentos.
 
 4- Uma vez que a mensagem para cada cliente esteja pronta, você vai enviar essas informações de volta para a API, atualizando a lista de "news" de cada usuário usando o endpoint PUT https://sdw-2023-prd.up.railway.app/users/%7Bid%7D.
+
+# Resumo do Projeto - Envio do Problema
+
+Este projeto representa a realização bem-sucedida de uma jornada prática pela Ciência de Dados, onde construímos um Pipeline de ETL (Extração, Transformação e Carregamento) usando Python, IA e APIs.
+
+Durante esta jornada, extraímos com sucesso os IDs dos usuários de uma planilha e os utilizamos para acessar a API da 'Santander Dev Week 2023', demonstrando a versatilidade na coleta de informações em Ciência de Dados. Além disso, adentramos no mundo da IA com o GPT-4 da OpenAI, transformando os dados em mensagens personalizadas de marketing, revelando maneiras inovadoras de aplicar a IA de forma prática.
+
+Por fim, finalizamos o processo enviando essas mensagens de volta para a API da 'Santander Dev Week 2023', ilustrando como dados transformados são reintegrados em sistemas, completando o ciclo de um pipeline ETL de forma eficaz.
+
+Este projeto é um testemunho do poder do Python, da IA e da integração de APIs em Ciência de Dados, proporcionando resultados impactantes.
