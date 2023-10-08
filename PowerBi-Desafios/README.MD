@@ -23,3 +23,8 @@ Criar a segunda página do relatório
 Publique o seu relatório no Power BI Service 
 Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
 Submenta seu projeto através do link no github
+
+# Resumo do Projeto - Envio do Problema
+O projeto de criação do relatório no Power BI foi concluído com êxito. Todas as etapas foram seguidas conforme as instruções do desafio. A segunda página foi criada e o relatório foi publicado no Power BI Service.
+Os elementos de navegação, segmentadores e botões com imagens foram implementados para proporcionar uma experiência intuitiva ao usuário. Os vídeos de passo a passo foram fundamentais para a criação dos elementos na primeira página do relatório.
+O projeto está disponível no PowerBI Service no link [https://app.powerbi.com/groups/me/reports/5d8e5e73-5689-4519-8f0b-ef5612071e9f/ReportSection67c32b3adb026eb4f31b?experience=power-bi]
